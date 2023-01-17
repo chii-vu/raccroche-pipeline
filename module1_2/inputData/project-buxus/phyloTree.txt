@@ -1,0 +1,2 @@
+# Tree in Newick Format:
+(((Aquilegea_28620, Nelumbo_35405), (Tetracentron_57266, Buxus_57268)), (Vitis_19990, Amaranthus_54057))
